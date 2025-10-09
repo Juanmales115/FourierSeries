@@ -1,0 +1,4 @@
+# Requirements
+
+numpy Version: 2.3.3
+matplotlib Version: 3.10.6
